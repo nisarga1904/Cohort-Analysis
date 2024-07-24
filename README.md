@@ -1,0 +1,1 @@
+This project demonstrates how to perform cohort analysis using Python. Cohort analysis is a technique that groups individuals into cohorts based on shared characteristics and analyzes their behavior over time. This analysis can help businesses understand customer behavior, retention rates, and other key metrics.
